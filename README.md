@@ -6,7 +6,7 @@ Just enter any text or URL and instantly generate a scannable QR code.
 ---
 
 ## 🚀 Live Demo  
-🔗 **[Click Here to Try It]([https://ashutoshpandey100.github.io/QR-Code-Generator/])**
+🔗 **[Click Here to Try It](https://ashutoshpandey100.github.io/QR-Generator/)**
 
 ---
 
